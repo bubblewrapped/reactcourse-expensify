@@ -1,0 +1,791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"He",
+				"HelpPage"
+			],
+			[
+				"E",
+				"EditExpensePage"
+			],
+			[
+				"Edi",
+				"EditExpensePage"
+			],
+			[
+				"A",
+				"AddExpensePage"
+			],
+			[
+				"Ex",
+				"ExpenseDashboardPage"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"hand",
+				"handleClearSelectedOption"
+			],
+			[
+				"se",
+				"selectedOption"
+			],
+			[
+				"Option",
+				"OptionModal"
+			],
+			[
+				"new",
+				"newSyntax"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"is",
+				"isSenior"
+			],
+			[
+				"b",
+				"ben"
+			],
+			[
+				"comp",
+				"component"
+			],
+			[
+				"co",
+				"component"
+			],
+			[
+				"compon",
+				"componentDidMount"
+			],
+			[
+				"opt",
+				"optionToRemove"
+			],
+			[
+				"op",
+				"optionText"
+			],
+			[
+				"han",
+				"handleDeleteOption"
+			],
+			[
+				"dele",
+				"handleDeleteOption"
+			],
+			[
+				"ha",
+				"handleDeleteOption"
+			],
+			[
+				"handle",
+				"handleDeleteOption"
+			],
+			[
+				"Ind",
+				"IndecisionApp"
+			],
+			[
+				"I",
+				"Indecision"
+			],
+			[
+				"V",
+				"VisibilityToggle"
+			],
+			[
+				"React",
+				"ReactDOM"
+			],
+			[
+				"sub",
+				"subTitle"
+			],
+			[
+				"Op",
+				"Option"
+			],
+			[
+				"Add",
+				"AddOption"
+			],
+			[
+				"has",
+				"hasHome"
+			],
+			[
+				"get",
+				"getGreeting"
+			],
+			[
+				"ge",
+				"getDescription"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"on",
+				"onToggleVisibility"
+			],
+			[
+				"ran",
+				"randomNum"
+			],
+			[
+				"ra",
+				"randomNum"
+			],
+			[
+				"red",
+				"renderIndecisionApp"
+			],
+			[
+				"Ren",
+				"renderCounterApp"
+			],
+			[
+				"multiply",
+				"multiplyBy"
+			],
+			[
+				"city",
+				"cityMessages"
+			],
+			[
+				"p",
+				"printPlacesLived"
+			],
+			[
+				"getFirst",
+				"getFirstNameShort"
+			],
+			[
+				"name",
+				"nameConst"
+			],
+			[
+				"header",
+				"headerBlue"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"category",
+				"categoryError"
+			],
+			[
+				"ca",
+				"categoryDOM"
+			],
+			[
+				"comment",
+				"commentSection"
+			],
+			[
+				"comm",
+				"commentName"
+			],
+			[
+				"m",
+				"msg-creating-comment"
+			],
+			[
+				"article",
+				"articleTitle"
+			],
+			[
+				"post",
+				"postData"
+			],
+			[
+				"add",
+				"addComment"
+			],
+			[
+				"artl",
+				"articleTitle"
+			],
+			[
+				"articl",
+				"articleTitle"
+			],
+			[
+				"web",
+				"webserviceURL"
+			],
+			[
+				"ref",
+				"refreshToDoTaskList"
+			],
+			[
+				"v",
+				"vertices"
+			],
+			[
+				"Line",
+				"lineBasicMaterial"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"in",
+				"innerWidth"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"r",
+				"rotation"
+			],
+			[
+				"inn",
+				"innerHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/app.js",
+			"settings":
+			{
+				"buffer_size": 316,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/routers/AppRouter.js",
+			"settings":
+			{
+				"buffer_size": 846,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/components/Header.js",
+			"settings":
+			{
+				"buffer_size": 450,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/components/NotFoundPage.js",
+			"settings":
+			{
+				"buffer_size": 180,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/components/HelpPage.js",
+			"settings":
+			{
+				"buffer_size": 124,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/components/EditExpensePage.js",
+			"settings":
+			{
+				"buffer_size": 146,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/components/ExpenseDashboardPage.js",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/components/AddExpensePage.js",
+			"settings":
+			{
+				"buffer_size": 143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/sites/reactcourse/expensify",
+		"/D/sites/reactcourse/expensify/public",
+		"/D/sites/reactcourse/expensify/source",
+		"/D/sites/reactcourse/expensify/source/components"
+	],
+	"file_history":
+	[
+		"/D/sites/reactcourse/expensify/source/styles/components/ExpenseDashboardPage.js",
+		"/D/sites/reactcourse/expensify/public/index.html",
+		"/D/sites/reactcourse/expensify/webpack.config.js",
+		"/D/sites/reactcourse/expensify/source/styles/base/_base.scss",
+		"/D/sites/reactcourse/expensify/package.json",
+		"/D/sites/reactcourse/expensify/source/styles/styles.scss",
+		"/D/sites/reactcourse/expensify/source/styles/base/_settings.scss",
+		"/D/sites/reactcourse/indecision/source/components/Header.js",
+		"/D/sites/reactcourse/indecision/source/styles/base/_settings.scss",
+		"/D/sites/reactcourse/indecision/source/styles/styles.scss",
+		"/D/sites/reactcourse/indecision/source/components/AddOption.js",
+		"/D/sites/reactcourse/indecision/source/components/OptionModal.js",
+		"/D/sites/reactcourse/indecision/source/styles/components/_option.scss",
+		"/D/sites/reactcourse/indecision/source/styles/components/_modal.scss",
+		"/D/sites/reactcourse/indecision/source/styles/components/_add-option.scss",
+		"/D/sites/reactcourse/indecision/source/components/Option.js",
+		"/D/sites/reactcourse/indecision/source/components/Options.js",
+		"/D/sites/reactcourse/indecision/source/components/IndecisionApp.js",
+		"/D/sites/reactcourse/indecision/source/styles/components/_widget.scss",
+		"/D/sites/reactcourse/indecision/source/app.js",
+		"/D/sites/reactcourse/indecision/source/styles/components/_header.scss",
+		"/D/sites/reactcourse/indecision/source/styles/base/_base.scss",
+		"/D/sites/reactcourse/indecision/source/styles/components/_button.scss",
+		"/D/sites/reactcourse/indecision/source/styles/components/_container.scss",
+		"/D/sites/reactcourse/indecision/source/components/Action.js",
+		"/D/sites/reactcourse/indecision/webpack.config.js",
+		"/D/sites/reactcourse/indecision/source/playground/app.js",
+		"/D/sites/reactcourse/indecision/package.json",
+		"/D/sites/reactcourse/indecision/.babelrc",
+		"/D/sites/reactcourse/indecision/source/person.js",
+		"/D/sites/reactcourse/indecision/source/utils.js",
+		"/D/sites/reactcourse/indecision/public/index.html",
+		"/D/sites/reactcourse/indecision/source/playground/counter-example.js",
+		"/D/sites/reactcourse/indecision/source/playground/build-it-visible.js",
+		"/D/sites/reactcourse/indecision/source/playground/jsx-indecision.js",
+		"/D/sites/reactcourse/indecision/source/playground/es6-classes-1.js",
+		"/D/sites/reactcourse/indecision/source/playground/es6-arrow-function-2.js",
+		"/D/sites/reactcourse/indecision/source/playground/es6-arrow-function.js",
+		"/D/sites/reactcourse/indecision/source/playground/es6-let-const.js",
+		"/D/sites/reactcourse/indecision/public/scripts/app.js",
+		"/D/sites/bubblewrapped.github.io/_posts/portfolio/2018-03-20-uglii-website-and-other-associated-websites.md",
+		"/D/sites/bubblewrapped.github.io/_config.yml",
+		"/D/sites/bubblewrapped.github.io/gruntfile.js",
+		"/D/sites/bubblewrapped.github.io/css/style.css",
+		"/D/sites/bubblewrapped.github.io/package.json",
+		"/D/sites/bubblewrapped.github.io/blog.html",
+		"/D/sites/bubblewrapped.github.io/contact.html",
+		"/D/sites/bubblewrapped.github.io/portfolio.html",
+		"/D/sites/bubblewrapped.github.io/.gitignore",
+		"/D/sites/bubblewrapped.github.io/blog/blog.html",
+		"/D/sites/freshbooksweb/webservice.js",
+		"/D/sites/freshbooksweb/package.json",
+		"/D/sites/node-js-getting-started/index.js",
+		"/D/sites/freshbooksweb/Procfile",
+		"/D/sites/node-js-getting-started/Procfile"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/routers/AppRouter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/components/Header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/components/NotFoundPage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/components/HelpPage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/components/EditExpensePage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/components/ExpenseDashboardPage.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "source/components/AddExpensePage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "expensify.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 416.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
