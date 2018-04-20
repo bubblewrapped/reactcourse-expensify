@@ -11,7 +11,7 @@ database.ref('expenses').on('child_added', (snapshot) => {
 });
 
 
-/*database.ref('expenses').on('value', (snapshot) => {
+database.ref('expenses').on('value', (snapshot) => {
 	const expenses = [];
 	snapshot.forEach((childSnapshot) => {
 		expenses.push({
@@ -21,9 +21,9 @@ database.ref('expenses').on('child_added', (snapshot) => {
 	});
 
 	console.log(expenses);
-});*/
+});
 
-/*database.ref('expenses').once('value').then((snapshot) =>{
+database.ref('expenses').once('value').then((snapshot) =>{
 	const expenses = [];
 	snapshot.forEach((childSnapshot) => {
 		expenses.push({
@@ -33,7 +33,7 @@ database.ref('expenses').on('child_added', (snapshot) => {
 	});
 
 	console.log(expenses);
-});*/
+});
 
 /*database.ref('expenses').push({
 	description: 'expense 1',

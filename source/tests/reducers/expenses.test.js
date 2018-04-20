@@ -55,7 +55,7 @@ test('Should edit an expense', () => {
 	expect(state[0].note).toBe(note);
 });
 
-test('Should edit an expense if expense not found', () => {
+test('Should not edit an expense if expense not found', () => {
 	const note = 'adding a note';
 	const action = {
 		type: 'EDIT_EXPENSE',
@@ -66,4 +66,20 @@ test('Should edit an expense if expense not found', () => {
 	};
 	const state = expensesReducer(expenses, action);
 	expect(state).toEqual(expenses);
+});
+
+test('Should set expenses', () => {
+	const expenseData = {
+		id: '123',
+		description: 'Rent',
+		amount: 109500,
+		createdAt: 1000,
+		note: 'This was last months rent'
+	};
+	const action = {
+		type: 'SET_EXPENSES',
+		expenses: expenseData
+	};
+	const state = expensesReducer(expenses, action);
+	expect(state).toEqual(expenseData);
 });
